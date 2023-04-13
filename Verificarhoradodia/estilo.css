@@ -1,0 +1,25 @@
+body{
+    background: rgb(107, 107, 241);
+    font: normal 15pt Arial;
+}
+header{
+    color: white; /**Da fonte**/
+    text-align: center; /**Centralizar Texto**/
+}
+section{
+    background: white;
+    border-radius: 10px;  /**Borda arredondada**/
+    padding: 15px;  /**aumentar tamanho da area**/
+    width: 500px; /**largura**/
+    margin: auto; /**Centralizar**/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.37); /**Sombra da área central**/
+}
+div{
+    text-align: center;
+    padding: 8px;
+}
+footer{
+    color: white; /**Da fonte**/        
+    text-align: center; /**Centralizar Texto**/
+    font-style: italic; /**fonte do Texto em italico**/
+}
